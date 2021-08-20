@@ -1,8 +1,8 @@
 {
     "dbConfig": {
-        "host": "mongodb+srv://dbUser:w3123456@cluster0.tld9e.mongodb.net/",
+        "host": "mongodb+srv://dbUser:w3123456@cluster0.tld9e.mongodb.net",
         "port": "",
-        "dbName": "dbrestaurante"
+        "dbName": "/dbrestaurante"
     },
     "SECRETORPRIVATEKEY": "MiLlaveSecreta",
     "PORT": 5000
