@@ -9,7 +9,7 @@ const PlatoSchema=Schema({
         type: String,
         required: [true, 'Schema: La descripcion es obligatoria']
     },
-	pryce: {
+	price: {
         type: String,
         required: [true, 'Schema: El precio es obligatorio']
     },
